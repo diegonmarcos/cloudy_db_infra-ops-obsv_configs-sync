@@ -1,0 +1,44 @@
+{
+  "schema": "readme-node/v1",
+  "generated_by": "_git-repos-master readme-render.js nodeData() from projects-repos.json; DO NOT EDIT (node repos-sot.js sync-readmes)",
+  "name": "cloudy_db_infra-ops-obsv_configs-sync",
+  "label": "cloudy_db_infra-ops-obsv_configs-sync",
+  "code": "1.1.3.2",
+  "kind": "repo",
+  "description": "Configs-sync engine data repo: consolidated fleet config SoT (from 1_cloud-configs) served by c3-infra-api/mcp",
+  "visibility": "public",
+  "url": "https://github.com/diegonmarcos/cloudy_db_infra-ops-obsv_configs-sync",
+  "developer": "Leaf.y",
+  "farm": "1.1.Cloudy",
+  "breadcrumb": [
+    {
+      "code": "1",
+      "kind": "area",
+      "label": "Unix",
+      "icon": "🐧"
+    },
+    {
+      "code": "1.1",
+      "kind": "project",
+      "label": "Cloudy",
+      "icon": "☁️"
+    },
+    {
+      "code": "1.1.3",
+      "kind": "family",
+      "label": "DB",
+      "icon": ""
+    }
+  ],
+  "hub": {
+    "name": "cloudy-___",
+    "code": "1.1.0",
+    "url": "https://github.com/diegonmarcos/cloudy-___"
+  },
+  "base_dir": "git",
+  "members": [],
+  "tree": [
+    "└── 0_hub/",
+    "    └── cloudy-___ (submodule)"
+  ]
+}
